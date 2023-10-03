@@ -6,7 +6,7 @@ version = "0.0.1"
 Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "framework/testnet" }
 
 [addresses]
-stable-swap = "0x0"
+escrow = "0x0"
 fungible_tokens = "0x1"
 benzo = "0x2"
 blaze = "0x3"
