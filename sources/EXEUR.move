@@ -4,7 +4,7 @@
 /// Example coin with a trusted manager responsible for minting/burning (e.g., a stablecoin)
 /// By convention, modules defining custom coin types use upper case names, in contrast to
 /// ordinary modules, which use camel case.
-module fungible_tokens::EXEUR {
+module fungible_tokens::ExEUR {
     use std::option;
     use sui::coin::{Self, Coin, TreasuryCap};
     use sui::transfer;

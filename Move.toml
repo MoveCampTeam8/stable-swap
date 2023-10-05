@@ -7,7 +7,7 @@ Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-fram
 
 [addresses]
 escrow = "0x0"
-fungible_tokens = "0x1"
+fungible_tokens = "0x0"
 benzo = "0x2"
 blaze = "0x3"
 candy_yul = "0x4"
